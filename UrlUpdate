@@ -1,5 +1,5 @@
 {
-    "Version": "1",
+    "Version": "1.1",
     "ReleaseNotes": "Não compartilha sua senha 🔑",
     "Sms": "https://w4.dr1.info/sms.php?id=6713ca0e0461a",
     "UrlUpdate": "https://w4.dr1.info/update.php?id=6713ca0e0461a",
@@ -17,8 +17,8 @@
             "Name": "SERVIDOR⁠ヘ",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "45.140.192.40",
-            "CheckUser": "http://45.140.192.40:5454/checkUser",
+            "ServerIP": "168.75.79.167",
+            "CheckUser": "http://168.75.79.167:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
@@ -27,24 +27,25 @@
     ],
     "Networks": [
         {
-            "Name": "CLARO 01",
+            "Name": "CLARO PY",
             "FLAG": "claro",
-            "Payload": "GET http://m.claro.com.br HTTP/1.0[crlf]Host: http://m.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: cdn.appsclub.com[crlf]Expect: 100-continue[lf][lf][split][lf][lf]GET / HTTP/1.1[lf]Host: [rotate=d1jdm7ay80s1ma.cloudfront.net] [lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
             "SNI": "",
-            "TlsIP": "45.140.192.40",
-            "ProxyIP": "45.140.192.40",
-            "ProxyPort": "8080",
+            "TlsIP": "cdn.appsclub.com",
+            "ProxyIP": "cdn.appsclub.com",
+            "ProxyPort": "80",
             "Info": "Direct"
         },
         {
-            "Name": "CLARO 02",
+            "Name": "TIGO PY",
             "FLAG": "claro",
-            "Payload": "",
-            "SNI": "web.whatsapp.com",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Ssl"
+            "Payload": "GET / HTTP/1.1[crlf]Host: braze-images.com
+[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: front.thundra.store[crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "braze-images.com",
+            "ProxyIP": "braze-images.com",
+            "ProxyPort": "80",
+            "Info": "Direct"
         },
         {
             "Name": "CLARO 03",
