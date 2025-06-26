@@ -1,0 +1,407 @@
+[
+    {
+        "name": "PERSONAL AR 1",
+        "description": "IP 🇦🇷 PREPAGO & ABONO",
+        "mode": "SSH_PROXY",
+        "tls_version": "TLSv1.2",
+        "sorter": 1,
+        "status": "ACTIVE",
+        "auth": {
+            "username": null,
+            "password": null,
+            "v2ray_uuid": null
+        },
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[rotate=GET;POST;PUT;OPTIONS;HEAD] / HTTP/1.1[crlf]Host: www.personal.com.ar[crlf][crlf][split]X / HTTP/1.1[crlf]Host: www.personal.com.ar[crlf][crlf]GET /app080769 HTTP/1.1[crlf]Host: [cdn_random][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/Xwy5YWV/file.png",
+        "proxy": {
+            "host": "ayudaysoporte.personal.com.ar#agresources.personal.com.ar#recargasuat.personal.com.ar#mipersonaluat2.personal.com.ar#tienda.personal.com.ar",
+            "port": 80
+        },
+        "server": {
+            "host": "centraldacdn-6.dns-theromshost.com#centraldacdn-7.dns-theromshost.com#centraldacdn-8.dns-theromshost.com",
+            "port": 80
+        },
+        "dnstt_key": null,
+        "dnstt_name_server": null,
+        "dnstt_server": null,
+        "udp_ports": [
+            7200,
+            7300
+        ],
+        "url_check_user": "https://0af528808a.dtunnel.shop:2053",
+        "category": {
+            "name": "ARGENTINA 🇦🇷 ",
+            "color": "#000000FF",
+            "sorter": 1
+        }
+    },
+    {
+        "name": "PERSONAL AR 2",
+        "description": "IP 🇦🇷 PREPAGO & ABONO",
+        "mode": "SSH_PROXY",
+        "tls_version": "TLSv1.2",
+        "sorter": 2,
+        "status": "ACTIVE",
+        "auth": {
+            "username": null,
+            "password": null,
+            "v2ray_uuid": null
+        },
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[rotate=GET;POST;PUT;OPTIONS;HEAD] / HTTP/1.1[crlf]Host: www.personal.com.ar[crlf][crlf][split]X / HTTP/1.1[crlf]Host: www.personal.com.ar[crlf][crlf]GET /app080769 HTTP/1.1[crlf]Host: [cdn_random][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/Xwy5YWV/file.png",
+        "proxy": {
+            "host": "teamaws.telecom.com.ar#ca-assets.telecom.com.ar#ca.telecom.com.ar#identityvalidation.telecom.com.ar#beneficiosclub.telecom.com.ar#unifiedsignup.telecom.com.ar#unifiedsignupt.telecom.com.ar#unifiedsignupd.telecom.com.ar#prestaciondev.telecom.com.ar#widgetpic-aws.telecom.com.ar#inversores.telecom.com.ar#regbf.telecom.com.ar#regbft.telecom.com.ar#userrecd.telecom.com.ar#userrec.telecom.com.ar#keyrec.telecom.com.ar#keyrecd.telecom.com.ar#keyrect.telecom.com.ar#userrect.telecom.com.ar#prestacion.telecom.com.ar#prestaciontest.telecom.com.ar#apipagosuat.telecom.com.ar#pagosdev.telecom.com.ar#apipagos.telecom.com.ar#pagosv2.telecom.com.ar#institucional.telecom.com.ar",
+            "port": 80
+        },
+        "server": {
+            "host": "centraldacdn-6.dns-theromshost.com#centraldacdn-7.dns-theromshost.com#centraldacdn-8.dns-theromshost.com",
+            "port": 80
+        },
+        "dnstt_key": null,
+        "dnstt_name_server": null,
+        "dnstt_server": null,
+        "udp_ports": [
+            7200,
+            7300
+        ],
+        "url_check_user": "https://0af528808a.dtunnel.shop:2053",
+        "category": {
+            "name": "ARGENTINA 🇦🇷 ",
+            "color": "#000000FF",
+            "sorter": 1
+        }
+    },
+    {
+        "name": "PERSONAL AR 3",
+        "description": "IP 🇧🇷 PREPAGO & ABONO",
+        "mode": "SSH_PROXY",
+        "tls_version": "TLSv1.2",
+        "sorter": 3,
+        "status": "ACTIVE",
+        "auth": {
+            "username": null,
+            "password": null,
+            "v2ray_uuid": null
+        },
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[rotate=GET;POST;PUT;OPTIONS;HEAD] /dakar HTTP/1.1[crlf]Host: www.personal.com.ar[crlf][crlf]X / HTTP/1.1[crlf]Host: www.personal.com.ar[crlf][crlf]GET /dakar HTTP/1.1[crlf]Host: [cdn_random][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/Xwy5YWV/file.png",
+        "proxy": {
+            "host": "ayudaysoporte.personal.com.ar#agresources.personal.com.ar#recargasuat.personal.com.ar#mipersonaluat2.personal.com.ar#tienda.personal.com.ar",
+            "port": 80
+        },
+        "server": {
+            "host": "front4.cofilde.fun#front5.cofilde.fun#front6.cofilde.fun",
+            "port": 80
+        },
+        "dnstt_key": null,
+        "dnstt_name_server": null,
+        "dnstt_server": null,
+        "udp_ports": [
+            7200,
+            7300
+        ],
+        "url_check_user": "https://0af528808a.dtunnel.shop:2053",
+        "category": {
+            "name": "ARGENTINA 🇦🇷 ",
+            "color": "#000000FF",
+            "sorter": 1
+        }
+    },
+    {
+        "name": "PERSONAL AR 4",
+        "description": "IP 🇧🇷 PREPAGO & ABONO",
+        "mode": "SSH_PROXY",
+        "tls_version": "TLSv1.2",
+        "sorter": 4,
+        "status": "ACTIVE",
+        "auth": {
+            "username": null,
+            "password": null,
+            "v2ray_uuid": null
+        },
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[rotate=GET;POST;PUT;OPTIONS;HEAD] /dakar HTTP/1.1[crlf]Host: www.personal.com.ar[crlf][crlf]X / HTTP/1.1[crlf]Host: www.personal.com.ar[crlf][crlf]GET /dakar HTTP/1.1[crlf]Host: [cdn_random][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/Xwy5YWV/file.png",
+        "proxy": {
+            "host": "teamaws.telecom.com.ar#ca-assets.telecom.com.ar#ca.telecom.com.ar#identityvalidation.telecom.com.ar#beneficiosclub.telecom.com.ar#unifiedsignup.telecom.com.ar#unifiedsignupt.telecom.com.ar#unifiedsignupd.telecom.com.ar#prestaciondev.telecom.com.ar#widgetpic-aws.telecom.com.ar#inversores.telecom.com.ar#regbf.telecom.com.ar#regbft.telecom.com.ar#userrecd.telecom.com.ar#userrec.telecom.com.ar#keyrec.telecom.com.ar#keyrecd.telecom.com.ar#keyrect.telecom.com.ar#userrect.telecom.com.ar#prestacion.telecom.com.ar#prestaciontest.telecom.com.ar#apipagosuat.telecom.com.ar#pagosdev.telecom.com.ar#apipagos.telecom.com.ar#pagosv2.telecom.com.ar#institucional.telecom.com.ar",
+            "port": 80
+        },
+        "server": {
+            "host": "front4.cofilde.fun#front5.cofilde.fun#front6.cofilde.fun",
+            "port": 80
+        },
+        "dnstt_key": null,
+        "dnstt_name_server": null,
+        "dnstt_server": null,
+        "udp_ports": [
+            7200,
+            7300
+        ],
+        "url_check_user": "https://aa931eb6ad.dtunnel.shop:2053",
+        "category": {
+            "name": "ARGENTINA 🇦🇷 ",
+            "color": "#000000FF",
+            "sorter": 1
+        }
+    },
+    {
+        "name": "PERSONAL AR 5",
+        "description": "ABONO | CONGELA MEGAS",
+        "mode": "SSL_PROXY",
+        "tls_version": "TLSv1.2",
+        "sorter": 5,
+        "status": "ACTIVE",
+        "auth": {
+            "username": null,
+            "password": null,
+            "v2ray_uuid": null
+        },
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "GET / HTTP/1.1[crlf]Host: [rotate=conecta-481575082923.northamerica-south1.run.app;conectapro-621421168846.northamerica-south1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "sni": "misconsumos.page.link#pubsub.googleapis.com#www.googletagmanager.com"
+        },
+        "config_v2ray": null,
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/Xwy5YWV/file.png",
+        "proxy": {
+            "host": "misconsumos.page.link#pubsub.googleapis.com#www.googletagmanager.com",
+            "port": 443
+        },
+        "server": {
+            "host": "conectapro-621421168846.southamerica-east1.run.app",
+            "port": 443
+        },
+        "dnstt_key": null,
+        "dnstt_name_server": null,
+        "dnstt_server": null,
+        "udp_ports": [
+            7200,
+            7300
+        ],
+        "url_check_user": "https://4a26dec03c.dtunnel.shop:2053",
+        "category": {
+            "name": "ARGENTINA 🇦🇷 ",
+            "color": "#000000FF",
+            "sorter": 1
+        }
+    },
+    {
+        "name": "PERSONAL PY",
+        "description": "CHIP SIN ACTIVAR ILIMITADO",
+        "mode": "SSL_PROXY",
+        "tls_version": "TLSv1.2",
+        "sorter": 1,
+        "status": "ACTIVE",
+        "auth": {
+            "username": null,
+            "password": null,
+            "v2ray_uuid": null
+        },
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "GET / HTTP/1.1[crlf]Host: [rotate=conecta-481575082923.northamerica-south1.run.app;conectapro-621421168846.northamerica-south1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "sni": "www.googletagmanager.com"
+        },
+        "config_v2ray": null,
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/JnPRd2J/qtxbg1-Pk-400x400-modified.png",
+        "proxy": {
+            "host": "www.googletagmanager.com",
+            "port": 443
+        },
+        "server": {
+            "host": "conectapro-621421168846.southamerica-east1.run.app",
+            "port": 443
+        },
+        "dnstt_key": null,
+        "dnstt_name_server": null,
+        "dnstt_server": null,
+        "udp_ports": [
+            7200,
+            7300
+        ],
+        "url_check_user": "https://4a26dec03c.dtunnel.shop:2053",
+        "category": {
+            "name": "PARAGUAY 🇵🇾 ",
+            "color": "#000000FF",
+            "sorter": 2
+        }
+    },
+    {
+        "name": "TIGO PY",
+        "description": "MODO AVION | ILIMITADO",
+        "mode": "SSH_PROXY",
+        "tls_version": "TLSv1.2",
+        "sorter": 3,
+        "status": "ACTIVE",
+        "auth": {
+            "username": null,
+            "password": null,
+            "v2ray_uuid": null
+        },
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[rotate=GET;POST;PUT;OPTIONS;HEAD] / HTTP/1.1[crlf]Host: internet.tigo.com.py[crlf][crlf][split]X / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET /dakar HTTP/1.1[crlf]Host: [cdn_random][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "dns_server": {
+            "dns1": "1.1.1.1",
+            "dns2": "1.0.0.1"
+        },
+        "icon": "https://i.ibb.co/RgKywxt/ic-tim.png",
+        "proxy": {
+            "host": "3.160.90.18#3.163.63.66#3.163.63.117#3.163.63.17#3.163.63.91#108.139.182.42#13.227.83.77#3.160.119.30#3.160.119.92#3.160.119.72#3.160.119.118#65.8.248.45#65.8.248.128#65.8.248.77#65.8.248.71#13.227.83.97#3.163.63.17#13.227.83.77#3.160.90.71#3.160.119.69#3.160.90.58",
+            "port": 80
+        },
+        "server": {
+            "host": "dakarpy.intert.lat#front4.cofilde.fun#front5.cofilde.fun#front6.cofilde.fun",
+            "port": 80
+        },
+        "dnstt_key": null,
+        "dnstt_name_server": null,
+        "dnstt_server": null,
+        "udp_ports": [
+            7100,
+            7200,
+            7300,
+            7400
+        ],
+        "url_check_user": "https://0af528808a.dtunnel.shop:2053",
+        "category": {
+            "name": "PARAGUAY 🇵🇾 ",
+            "color": "#000000FF",
+            "sorter": 2
+        }
+    },
+    {
+        "name": "VOX PY",
+        "description": "ILIMITADO",
+        "mode": "SSH_PROXY",
+        "tls_version": "TLSv1.2",
+        "sorter": 7,
+        "status": "ACTIVE",
+        "auth": {
+            "username": null,
+            "password": null,
+            "v2ray_uuid": null
+        },
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "GET / HTTP/1.1[crlf]Host: unpkg.com[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: rustyproject.art[crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [uat][crlf]Upgrade: websocket[crlf][crlf]",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/9/98/Logo_de_Vox_%282009%29.png/revision/latest?cb=20230425144230&path-prefix=es",
+        "proxy": {
+            "host": "unpkg.com#www.ding.com#twitter.com#creativecommons.org#s10.histats.com",
+            "port": 80
+        },
+        "server": {
+            "host": "argentina.rustyproject.art",
+            "port": 80
+        },
+        "dnstt_key": null,
+        "dnstt_name_server": null,
+        "dnstt_server": null,
+        "udp_ports": [
+            7300
+        ],
+        "url_check_user": "https://0af528808a.dtunnel.shop:2053",
+        "category": {
+            "name": "PARAGUAY 🇵🇾 ",
+            "color": "#000000FF",
+            "sorter": 2
+        }
+    },
+    {
+        "name": "CLARO AR ROAMING",
+        "description": "ILIMITADO",
+        "mode": "SSH_PROXY",
+        "tls_version": "TLSv1.2",
+        "sorter": 8,
+        "status": "ACTIVE",
+        "auth": {
+            "username": null,
+            "password": null,
+            "v2ray_uuid": null
+        },
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "OPTIONS / HTTP/1.1[crlf]Host: [rotate=asistencia.claro.com.ar;simple.claro.com.ar;www.claro.com.ar][crlf][crlf][split]GET /dakar HTTP/1.1[crlf]Host: [cdn_random][crlf]Connection: Upgrade:  [crlf]Upgrade: websocket[crlf][crlf]",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/NLWfvQp/png-transparent-claro-hd-logo-modified.png",
+        "proxy": {
+            "host": "asistencia.claro.com.ar#simple.claro.com.ar#www.claro.com.ar",
+            "port": 80
+        },
+        "server": {
+            "host": "front4.cofilde.fun#front5.cofilde.fun#front6.cofilde.fun",
+            "port": 80
+        },
+        "dnstt_key": null,
+        "dnstt_name_server": null,
+        "dnstt_server": null,
+        "udp_ports": [
+            7300
+        ],
+        "url_check_user": "https://0af528808a.dtunnel.shop:2053",
+        "category": {
+            "name": "PARAGUAY 🇵🇾 ",
+            "color": "#000000FF",
+            "sorter": 2
+        }
+    }
+]
